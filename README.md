@@ -1,3 +1,3 @@
-# IAS_Pacman_Game
+# IAS_Game_Project
 
-Pacman Game developed as a team of 2 members for CP5609 (IAS) subject
+Pacman Game development as a University Project for IAS (CP5609)
